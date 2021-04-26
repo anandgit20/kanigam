@@ -1,2 +1,0 @@
-# kanigam
-docker web app
